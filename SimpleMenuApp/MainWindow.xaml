@@ -1,0 +1,64 @@
+﻿<Window x:Class="SimpleStaffApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleStaffApp"
+        xmlns:viewModel="clr-nameSpace:SimpleRecipeApp.MVVM.ViewModel"
+        mc:Ignorable="d"
+        Height="600" 
+        Width="920"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True">
+        <!--Title="MainWindow"-->
+
+    <Window.DataContext>
+        <viewModel:MainsViewModel/>
+    </Window.DataContext>
+    
+    <Border Background="#272537"
+            CornerRadius="10">
+        
+    <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+        
+        <TextBlock Text="SampleProject"
+                   VerticalAlignment="center"
+                   HorizontalAlignment="Center"
+                   Foreground="White"
+                   FontSize="20"></TextBlock>
+
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Mains" 
+                             Height="50" 
+                             Foreground="White" 
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Sides" 
+                             Height="50" 
+                             Foreground="White" 
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Desserts" 
+                             Height="50" 
+                             Foreground="White" 
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+            </StackPanel>
+            <ContentControl Grid.Column="1" 
+                            Grid.Row="1" 
+                            Margin="10"
+                            Content="{Binding CurrentView}"/>
+        </Grid>                   
+    </Border>
+</Window>

@@ -1,0 +1,85 @@
+﻿<UserControl x:Class="SimpleRecipeApp.MVVM.View__Display_.Mains"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:SimpleRecipeApp.MVVM.View__Display_"
+             mc:Ignorable="d"
+             d:DesignHeight="450" 
+             d:DesignWidth="800">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="0" Margin="5">
+            <Image Source="/Images/Chicken.jfif" MaxHeight="120"/>
+            <TextBlock Text="Chicken Paella" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="0" Margin="5">
+            <Image Source="/Images/ChickenCurry.jpg" MaxHeight="120"/>
+            <TextBlock Text="Chicken Curry" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Grid.Row="0" Margin="5">
+            <Image Source="/Images/Pistachio-RiceBowl.jpg" MaxHeight="120"/>
+            <TextBlock Text="Pistachio RiceBowl" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" Grid.Row="0" Margin="5">
+            <Image Source="/Images/Lasagne.jpg" MaxHeight="120"/>
+            <TextBlock Text="Lasagne" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="5">
+            <Image Source="/Images/lemongrass-beef-bowl.jpg" MaxHeight="120"/>
+            <TextBlock Text="Lemongrass Beef Bowl" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="5">
+            <Image Source="/Images/Korma.jpg" MaxHeight="120"/>
+            <TextBlock Text="Chicken Korma" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Grid.Row="1" Margin="5">
+            <Image Source="/Images/Ratatouille.jpg" MaxHeight="120"/>
+            <TextBlock Text="Ratatouille" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" Grid.Row="1" Margin="5">
+            <Image Source="/Images/Lasgne.jpg" MaxHeight="120"/>
+            <TextBlock Text="Lasagne" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="2" Margin="5">
+            <Image Source="/Images/Skewer.jpg" MaxHeight="120"/>
+            <TextBlock Text="Skewers" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="2" Margin="5">
+            <Image Source="/Images/Steak.jpg" MaxHeight="120"/>
+            <TextBlock Text="Steak" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Grid.Row="2" Margin="5">
+            <Image Source="/Images/Yaki.jpg" MaxHeight="120"/>
+            <TextBlock Text="Yaki Soba" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="3" Grid.Row="2" Margin="5">
+            <Image Source="/Images/Paella.jpg" MaxHeight="120"/>
+            <TextBlock Text="Paella" HorizontalAlignment="Center" Foreground="White" />
+        </StackPanel>
+    </Grid>
+</UserControl>
