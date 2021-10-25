@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9go1E2hfwSdvnV0jAqfCvtM8VzSyH+9hoBZ2x+qXUyJOhQ6omWbUuHXmCeo5qrRlXPE6RyzgZzpMXYpDneqMNw==",
+  "dgSpecHash": "fK4zMl8x+sChocm3yaiYzoighWDOAQiCVg9dI10UC9otkb+ZogWzTqfaQaBFXb9aJMchftX5pUIZ0Hb5ug8sQg==",
   "success": true,
-  "projectFilePath": "F:\\C#\\SimpleMenuApp\\SimpleRecipeApp.csproj",
+  "projectFilePath": "F:\\C#\\SimpleMenuApp\\SimpleMenuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

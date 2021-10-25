@@ -12,16 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SimpleRecipeApp.MVVM.View__Display_
+namespace SimpleMenuApp.MVVM.View__Display_
 {
     /// <summary>
     /// Interaction logic for Mains.xaml
     /// </summary>
-    public partial class Mains : Window
+    public partial class MainsView : UserControl
     {
-        public Mains()
+        public MainsView()
         {
-            InitializeComponent();
         }
     }
 }

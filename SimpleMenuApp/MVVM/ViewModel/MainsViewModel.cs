@@ -1,12 +1,6 @@
-﻿using SimpleStaffApp.Core;
-
-namespace SimpleRecipeApp.MVVM.ViewModel
+﻿namespace SimpleMenuApp.MVVM.ViewModel
 {
-    class MainsViewModel : ObservableObject
+    public class MainsViewModel
     {
-        public MainsViewModel()
-        {
-
-        }
     }
 }

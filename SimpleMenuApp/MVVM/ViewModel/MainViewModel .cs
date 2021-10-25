@@ -1,19 +1,19 @@
-﻿using SimpleStaffApp.Core;
+﻿using SimpleMenuApp.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleRecipeApp.MVVM.ViewModel
+namespace SimpleMenuApp.MVVM.ViewModel
 {
     class MainViewModel : ObservableObject
     {
         public RelayCommand MainsViewCommand{ get; set; }
-                public RelayCommand SidesViewCommand { get; set; }
+        public RelayCommand SidesViewCommand { get; set; }
 
         public MainsViewModel MainsVM { get; set; }
-        public SidesViewModel SidesVM { get; set;  }
+        public SidesViewModel SidesVM { get; set; }
         private object _currentView;
 
 

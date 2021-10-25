@@ -18,11 +18,10 @@ namespace SimpleRecipeApp.MVVM.View__Display_
     /// <summary>
     /// Interaction logic for Sides.xaml
     /// </summary>
-    public partial class Sides : UserControl
+    public partial class SidesView : UserControl
     {
-        public Sides()
+        public SidesView()
         {
-            InitializeComponent();
         }
     }
 }

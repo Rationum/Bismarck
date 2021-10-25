@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\SimpleMenuApp\\SimpleRecipeApp.csproj",
-      "projectName": "SimpleRecipeApp",
-      "projectPath": "F:\\C#\\SimpleMenuApp\\SimpleRecipeApp.csproj",
+      "projectUniqueName": "F:\\C#\\SimpleMenuApp\\SimpleMenuApp.csproj",
+      "projectName": "SimpleMenuApp",
+      "projectPath": "F:\\C#\\SimpleMenuApp\\SimpleMenuApp.csproj",
       "packagesPath": "C:\\Users\\Judge\\.nuget\\packages\\",
       "outputPath": "F:\\C#\\SimpleMenuApp\\obj\\",
       "projectStyle": "PackageReference",
