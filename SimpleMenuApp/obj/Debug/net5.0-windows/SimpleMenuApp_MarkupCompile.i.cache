@@ -1,5 +1,5 @@
 ﻿SimpleMenuApp
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 F:\C#\SimpleMenuApp\App.xaml
 52088464928
 
-12-691281905
+14-1623754662
 193-1891726104
 MainWindow.xaml;MVVM\View (Display)\DesertsView.xaml;MVVM\View (Display)\MainsView.xaml;MVVM\View (Display)\SidesView.xaml;Themes\MenuButtons.xaml;
 
-False
+True
 

@@ -21,6 +21,7 @@ namespace SimpleMenuApp.MVVM.View__Display_
     {
         public MainsView()
         {
+            //InitializeComponent();
         }
     }
 }

@@ -1,11 +1,3 @@
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\MainsView.baml
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\Themes\MenuButtons.baml
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\MainsView.g.cs
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\SidesView.g.cs
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\App.g.cs
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp_MarkupCompile.cache
-F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp_MarkupCompile.lref
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.exe
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.deps.json
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.runtimeconfig.json
@@ -13,9 +5,19 @@ F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.runtimeconfig.dev.jso
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.dll
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\ref\SimpleMenuApp.dll
 F:\C#\SimpleMenuApp\bin\Debug\net5.0-windows\SimpleMenuApp.pdb
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\Themes\MenuButtons.baml
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\DesertsView.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\MainsView.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\SidesView.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\App.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp_MarkupCompile.cache
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp_MarkupCompile.lref
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\App.baml
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MainWindow.baml
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\DesertsView.baml
+F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\MainsView.baml
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\MVVM\View (Display)\SidesView.baml
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp.g.resources
 F:\C#\SimpleMenuApp\obj\Debug\net5.0-windows\SimpleMenuApp.GeneratedMSBuildEditorConfig.editorconfig

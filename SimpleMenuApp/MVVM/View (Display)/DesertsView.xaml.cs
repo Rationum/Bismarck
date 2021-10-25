@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace SimpleMenuApp.MVVM.View__Display_
 {
     /// <summary>
-    /// Interaction logic for Sides.xaml
+    /// Interaction logic for DesertsView.xaml
     /// </summary>
-    public partial class SidesView : UserControl
+    public partial class DesertsView : UserControl
     {
-        public SidesView()
+        public DesertsView()
         {
             //InitializeComponent();
         }

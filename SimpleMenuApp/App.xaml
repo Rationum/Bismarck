@@ -14,8 +14,13 @@
             <DataTemplate DataType="{x:Type viewModel:MainsViewModel}">
                 <view:MainsView/>
             </DataTemplate>
+            
             <DataTemplate DataType="{x:Type viewModel:SidesViewModel}">
                 <view:SidesView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:DesertsViewModel}">
+                <view:DesertsView/>
             </DataTemplate>
         </ResourceDictionary>
     </Application.Resources>

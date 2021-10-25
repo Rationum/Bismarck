@@ -6,8 +6,7 @@
              xmlns:local="clr-namespace:SimpleMenuApp.MVVM.ViewModel"
              mc:Ignorable="d"
              d:DesignHeight="450" 
-             d:DesignWidth="800"
-             Background="Aqua">
+             d:DesignWidth="800">
     
     <Grid>
         <Grid.ColumnDefinitions>
