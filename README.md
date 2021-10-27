@@ -1,8 +1,8 @@
 # Bismarck
 Title: SimpleMenuApp
-Language: C#
-Base: WPF .Net Framework
-Spec:
+- Language: C#
+- Base: WPF .Net Framework
+- Spec:
 - Simple menu
 - 3 seperate menu tabs
 - 12 display items per tab
