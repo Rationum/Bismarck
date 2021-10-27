@@ -131,8 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\BaconAspara.jpg" />
+    <Resource Include="Images\Chicken.jpg" />
     <Resource Include="Images\ChickenCurry.jpg" />
     <Resource Include="Images\Chili.jpg" />
+    <Resource Include="Images\Dumplings.jpg" />
     <Resource Include="Images\Fries.png" />
     <Resource Include="Images\Fruit.jpg" />
     <Resource Include="Images\Hallumi.jpg" />
@@ -150,12 +152,22 @@
     <Resource Include="Images\Salad.jpg" />
     <Resource Include="Images\Skewer.jpg" />
     <Resource Include="Images\Steak.jpg" />
+    <Resource Include="Images\Wings.jpg" />
     <Resource Include="Images\Yaki.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Chicken.jpg" />
-    <Resource Include="Images\Dumplings.jpg" />
-    <Resource Include="Images\Wings.jpg" />
+    <Resource Include="Images\BananaSplit.jpg" />
+    <Resource Include="Images\Cake.jpg" />
+    <Resource Include="Images\CB.jpg" />
+    <Resource Include="Images\Choc.jpg" />
+    <Resource Include="Images\eton.jpg" />
+    <Resource Include="Images\fudge.jpg" />
+    <Resource Include="Images\jelly.jpg" />
+    <Resource Include="Images\JRP.jpg" />
+    <Resource Include="Images\loli.jpg" />
+    <Resource Include="Images\sorbet.jpg" />
+    <Resource Include="Images\sundae.png" />
+    <Resource Include="Images\Waff.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

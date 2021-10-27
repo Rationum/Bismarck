@@ -8,8 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/chicken.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/dumplings.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/wings.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/bananasplit.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/cake.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/cb.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/choc.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/eton.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/fudge.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/jelly.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/jrp.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/loli.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/sorbet.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/sundae.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/waff.jpg")]
 
 

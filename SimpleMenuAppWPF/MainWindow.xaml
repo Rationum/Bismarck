@@ -57,6 +57,11 @@
                              FontSize="14"
                              Style="{StaticResource MenuButtonTheme}"
                              Command="{Binding DesertsViewCommand}"/>
+                <RadioButton Content="Close Menu" 
+                             Height="50" 
+                             Foreground="White" 
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}" Checked="RadioButton_Checked" FontStyle="Italic"/>
             </StackPanel>
 
             <ContentControl Grid.Column="1" 
