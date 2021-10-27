@@ -1,0 +1,24 @@
+F:\C#\SimpleMenuAppWPF\bin\Debug\SimpleMenuAppWPF.exe.config
+F:\C#\SimpleMenuAppWPF\bin\Debug\SimpleMenuAppWPF.exe
+F:\C#\SimpleMenuAppWPF\bin\Debug\SimpleMenuAppWPF.pdb
+F:\C#\SimpleMenuAppWPF\obj\Debug\Themes\MenuButtons.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\MainWindow.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\DesertsView.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\MainsView.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\SidesView.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\App.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF_MarkupCompile.cache
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF_MarkupCompile.lref
+F:\C#\SimpleMenuAppWPF\obj\Debug\App.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\MainWindow.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\DesertsView.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\MainsView.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\MVVM\View (Display)\SidesView.baml
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.g.resources
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.Properties.Resources.resources
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.csproj.GenerateResource.cache
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.csproj.CoreCompileInputs.cache
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.exe
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.pdb
+F:\C#\SimpleMenuAppWPF\obj\Debug\SimpleMenuAppWPF.csproj.AssemblyReference.cache
